@@ -1,0 +1,18 @@
+/* #Settings */
+@import "variables";
+@import "mixin";
+@import "normalize";
+
+/* #MODULS */
+@import "moduls/animate";
+
+
+/* #BASE */
+@import "base";
+
+/* #Plugins */
+@import "widgets/gallery";
+
+
+/* Theme */
+@import "themes/theme-1";

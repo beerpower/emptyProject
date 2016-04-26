@@ -1,0 +1,26 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "base configuration for empty project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "base",
+    "config"
+  ],
+  "author": "mitaro",
+  "license": "ISC",
+  "dependencies": {
+    "bourbon": "^4.2.7",
+    "bourbon-neat": "^1.7.4",
+    "bower": "^1.7.9",
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.3.2",
+    "gulp-cssmin": "^0.1.7",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.3.1",
+    "gulp-util": "^3.0.7"
+  }
+}

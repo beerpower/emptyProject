@@ -1,0 +1,73 @@
+.header-holder {
+  background: #333;
+  color: #fff; }
+
+.page-footer {
+  background: #333;
+  color: #fff; }
+
+.panel {
+  border: 1px solid; }
+  .panel.panel-1 {
+    background: #fff;
+    color: #333; }
+    .panel.panel-1:hover {
+      background: #333;
+      color: #fff; }
+  .panel.panel-2 {
+    background: #333;
+    color: #fff; }
+    .panel.panel-2:hover {
+      background: #72009F;
+      color: #fff; }
+  .panel.panel-3 {
+    background: #72009F;
+    color: #fff; }
+    .panel.panel-3:hover {
+      background: #FF66A2;
+      color: #fff; }
+  .panel.panel-4 {
+    background: #FF66A2;
+    color: #fff; }
+    .panel.panel-4:hover {
+      background: #009EFF;
+      color: #fff; }
+  .panel.panel-5 {
+    background: #009EFF;
+    color: #fff; }
+    .panel.panel-5:hover {
+      background: #fff;
+      color: #333; }
+
+.btn {
+  border: 1px solid; }
+  .btn.btn-1 {
+    background: #fff;
+    color: #333; }
+    .btn.btn-1:hover {
+      background: #333;
+      color: #fff; }
+  .btn.btn-2 {
+    background: #333;
+    color: #fff; }
+    .btn.btn-2:hover {
+      background: #72009F;
+      color: #fff; }
+  .btn.btn-3 {
+    background: #72009F;
+    color: #fff; }
+    .btn.btn-3:hover {
+      background: #FF66A2;
+      color: #fff; }
+  .btn.btn-4 {
+    background: #FF66A2;
+    color: #fff; }
+    .btn.btn-4:hover {
+      background: #009EFF;
+      color: #fff; }
+  .btn.btn-5 {
+    background: #009EFF;
+    color: #fff; }
+    .btn.btn-5:hover {
+      background: #fff;
+      color: #333; }

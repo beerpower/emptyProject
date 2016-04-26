@@ -1,0 +1,108 @@
+@import "../moduls/bourbon";
+@import "../variables";
+
+.header-holder{
+    background: $color_2;
+    color: $text_color_2;
+}
+
+.page-footer{
+    background: $color_2;
+    color: $text_color_2;
+}
+
+.panel{
+    border: 1px solid;
+    &.panel-1{
+        background: $color_1;
+        color: $text_color_1;
+        &:hover{
+            background: $color_2;
+            color: $text_color_2;
+        }
+    }
+    
+    &.panel-2{
+        background: $color_2;
+        color: $text_color_2;
+        &:hover{
+            background: $color_3;
+            color: $text_color_3;
+        }
+    }
+    
+    &.panel-3{
+        background: $color_3;
+        color: $text_color_3;
+        &:hover{
+            background: $color_4;
+            color: $text_color_4;
+        }
+    }
+    
+    &.panel-4{
+        background: $color_4;
+        color: $text_color_4;
+        &:hover{
+            background: $color_5;
+            color: $text_color_5;
+        }
+    }
+    
+    &.panel-5{
+        background: $color_5;
+        color: $text_color_5;
+        &:hover{
+            background: $color_1;
+            color: $text_color_1;
+        }
+    }
+}
+
+.btn{
+    border: 1px solid;
+    &.btn-1{
+        background: $color_1;
+        color: $text_color_1;
+        &:hover{
+            background: $color_2;
+            color: $text_color_2;
+        }
+    }
+    
+    &.btn-2{
+        background: $color_2;
+        color: $text_color_2;
+        &:hover{
+            background: $color_3;
+            color: $text_color_3;
+        }
+    }
+    
+    &.btn-3{
+        background: $color_3;
+        color: $text_color_3;
+        &:hover{
+            background: $color_4;
+            color: $text_color_4;
+        }
+    }
+    
+    &.btn-4{
+        background: $color_4;
+        color: $text_color_4;
+        &:hover{
+            background: $color_5;
+            color: $text_color_5;
+        }
+    }
+    
+    &.btn-5{
+        background: $color_5;
+        color: $text_color_5;
+        &:hover{
+            background: $color_1;
+            color: $text_color_1;
+        }
+    }
+}
